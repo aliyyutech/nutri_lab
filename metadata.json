@@ -1,0 +1,8 @@
+{
+  "name": "Food Calorie and Nutrition Finder",
+  "description": "Look up calories and detailed nutritional specifications for any food or meal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
